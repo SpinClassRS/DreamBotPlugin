@@ -41,3 +41,4 @@ Download and install the Intellij IDEA and the Java 1.8 SDK, like you would when
 * Run the runDreambot task from the Gradle menu, on the right hand side
   ![alt text](https://github.com/SpinClassRS/DreamBotPlugin/blob/master/developing_your_script_3.png)
 * DreamBot should open and you should now be able to select your script from Local Scripts
+* Your script jar is also located in `builds/libs`, if you can't see it then run the buildScript task
